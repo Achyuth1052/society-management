@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://society-managment-app.onrender.com/api"
+  baseURL: "https://society-management-tkyd.onrender.com/api"
 });
 
 api.interceptors.request.use(config => {
