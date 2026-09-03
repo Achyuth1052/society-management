@@ -95,7 +95,7 @@ export default function Sidebar() {
 
         <h1 className="text-2xl font-bold">
 
-          ABHI-SOCIETY
+          SocioHub
 
         </h1>
 

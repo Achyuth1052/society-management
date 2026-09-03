@@ -54,7 +54,7 @@ export default function StaffSidebar() {
       <div className="p-6 border-b border-indigo-500">
 
         <h1 className="text-2xl font-bold">
-          ABHI-SOCIETY
+          SocioHub
         </h1>
 
         <p className="text-indigo-200 text-sm mt-1">

@@ -7,7 +7,7 @@ export default function Landing() {
       {/* NAVBAR */}
       <nav className="flex justify-between items-center px-10 py-6 bg-white shadow">
         <h1 className="text-2xl font-bold text-indigo-600">
-          ABHI-SOCIETY
+          SocioHub
         </h1>
 
         <div className="space-x-6">
