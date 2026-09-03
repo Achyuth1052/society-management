@@ -1,12 +1,12 @@
-# 🏢 Society Management System Pro
+# 🏢 SocioHub
 
-A full-stack MERN-based Society Management ERP platform designed to simplify residential community operations with role-based dashboards, realtime communication, complaint tracking, visitor management, billing, parking management, and more.
+A full-stack MERN-based SocioHub ERP platform designed to simplify residential community operations with role-based dashboards, realtime communication, complaint tracking, visitor management, billing, parking management, and more.
 
 ---
 
 # 🚀 Project Overview
 
-Society Management System Pro is a multi-role enterprise-style web application built for apartment communities and gated societies.
+SocioHub is a multi-role enterprise-style web application built for apartment communities and gated societies.
 
 The platform helps:
 
@@ -278,7 +278,7 @@ Role: STAFF
 
 # 🏢 Facility Booking Module
 
-The Society Management System Pro includes a complete Facility Booking Management system that allows administrators to create and manage society facilities while enabling residents to reserve available facilities.
+SocioHub includes a complete Facility Booking Management system that allows administrators to create and manage society facilities while enabling residents to reserve available facilities.
 
 ## 👨‍💼 Admin Facility Management
 
@@ -482,7 +482,7 @@ Add screenshots here:
 
 # 🙌 Conclusion
 
-Society Management System Pro is a complete modern ERP-style residential management platform built using the MERN stack with realtime functionality and role-based architecture.
+SocioHub is a complete modern ERP-style residential management platform built using the MERN stack with realtime functionality and role-based architecture.
 
 The project demonstrates practical implementation of enterprise application concepts including authentication, authorization, realtime systems, modular architecture, and responsive frontend development.
 

@@ -176,7 +176,7 @@ export default function AdminDashboard() {
 
         <p className="text-gray-500 mt-2">
 
-          Society management overview
+          SocioHub overview
 
         </p>
 

@@ -30,7 +30,7 @@ export default function Landing() {
         {/* TEXT */}
         <div>
           <h2 className="text-5xl font-bold mb-6 text-gray-900">
-            Smart Society Management Platform
+            Smart SocioHub Platform
           </h2>
 
           <p className="text-lg text-gray-600 mb-8">

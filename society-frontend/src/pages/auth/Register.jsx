@@ -105,7 +105,7 @@ export default function Register() {
 
           <p className="text-lg max-w-md opacity-90 leading-relaxed">
 
-            Smart residential society management platform
+            Smart residential SocioHub platform
             for modern communities.
 
           </p>
